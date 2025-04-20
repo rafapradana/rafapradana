@@ -1,7 +1,7 @@
 <!-- Rafa Pradana | GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rafa+👋;Web+Developer+%7C+Creative+Builder;Design.+Code.+Ship."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rafa+👋;Web+Developer;Design.+Code.+Ship."/>
 </h1>
 
 <p align="center">
