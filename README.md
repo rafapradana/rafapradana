@@ -11,14 +11,6 @@
 
 ---
 
-### 🧠 About Me  
-- 💭 Thinks in systems, not tasks  
-- 🎯 Obsessed with clarity, progress, and good taste  
-- 🧩 Mixes logic, design, and storytelling  
-- 🧠 INTJ – strategic, efficient, relentless  
-
----
-
 ### 🛠️ Tech I Use
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,js,ts,supabase,vercel,figma,git&theme=light"/>
@@ -46,13 +38,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafapradana&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rafapradana&theme=transparent&hide_border=true" />
 </div>
-
----
-
-### ☕ Rafa in 3 Words
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=500&color=8FFF00&center=true&vCenter=true&width=300&lines=Creative.;Strategic.;Ambitious."/>
-</p>
 
 ---
 
