@@ -62,7 +62,6 @@ Infrastructure →   Docker · PostgreSQL · MinIO
 | Year | Achievement |
 |------|-------------|
 | 🥈 Jan 2026 | **2nd Place** — LKS Dikmen Kota Malang 2025 |
-| 🏅 Dec 2025 | **Bootcamp** — LKS Dikmen Tingkat Kota @ PT. Universal Big Data (UBIG) |
 | 🏆 Nov 2025 | **Most Progressive Team** — Jagoan Hosting Infra Competition 2025 |
 
 ---
