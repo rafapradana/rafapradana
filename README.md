@@ -31,16 +31,6 @@ When I'm not shipping code, I'm probably competing — and winning.
 
 ---
 
-## 🛠 Tech Stack
-
-```
-Frontend       →   JavaScript · ReactJS · NextJS
-Backend        →   Laravel · Node.js
-Infrastructure →   Docker · PostgreSQL · MinIO
-```
-
----
-
 ## 🏆 Achievements
 
 | Year | Achievement |
