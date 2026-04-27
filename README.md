@@ -41,22 +41,6 @@ Infrastructure →   Docker · PostgreSQL · MinIO
 
 ---
 
-## 🚀 Projects
-
-### [DeltaMind](https://github.com/rafapradana)
-> AI-powered learning app that generates personalized quizzes and flashcards from your study materials. Built to make studying smarter, not harder.
-
-### [Grafikarsa.com](https://grafikarsa.com/)
-> Student portfolio catalog and social networking platform for the entire SMKN 4 Malang community — connecting students across all majors.
-
-### [Novyl AI](https://github.com/rafapradana)
-> A creative writing platform for novel authors, featuring an AI-powered story generator to help writers build and develop their narratives efficiently.
-
-### [CodePacker Catalog](https://github.com/rafapradana)
-> Web application serving as the official student catalog and portfolio hub for the RPL (Software Engineering) department at SMKN 4 Malang.
-
----
-
 ## 🏆 Achievements
 
 | Year | Achievement |
@@ -69,9 +53,7 @@ Infrastructure →   Docker · PostgreSQL · MinIO
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Rafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafapradana&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapradana&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
