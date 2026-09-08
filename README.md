@@ -1,19 +1,8 @@
 <div align="center">
 
-```text
-██████╗  █████╗ ███████╗ █████╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗
-██████╔╝███████║█████╗  ███████║
-██╔══██╗██╔══██║██╔══╝  ██╔══██║
-██║  ██║██║  ██║██║     ██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
-```
-
 # Muhammad Rafa Shaquille Pradana
 
 **AI Engineer @ Sarana.ai · Software Engineering Student (RPL) @ SMKN 4 Malang**
-
-*Building practical AI systems, developer tools, and modern software.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafapradana/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafapradana)
