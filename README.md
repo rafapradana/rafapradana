@@ -35,7 +35,7 @@ I'm passionate about building practical AI systems, developer tools, and full-st
 
 | Year | Achievement |
 |------|-------------|
-| **2026** | 🥈 **2nd Place** — LKS Dikmen Kota Malang 2025 |
+| **2026** | 🥈 **2nd Place** — LKS Dikmen Kota Malang Web Technology 2025  |
 | **2025** | 🏆 **Most Progressive Team** — Jagoan Hosting Infra Competition 2025 |
 
 ---
