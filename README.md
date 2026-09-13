@@ -12,12 +12,4 @@
 
 </br>
 
-*Always open to interesting projects, collaborations, and opportunities.*
-
-**📫 mrafapradanaa@gmail.com**
-
-</br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafapradana/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafapradana)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrafapradanaa@gmail.com)
+*Always open to interesting projects, collaborations, and opportunities.* **📫 mrafapradanaa@gmail.com**
