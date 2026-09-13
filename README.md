@@ -1,4 +1,4 @@
-### M. Rafa Shaquille Pradana
+## M. Rafa Shaquille Pradana
 
 **AI Engineer** @ Sarana.ai </br>
 **Software Engineering Student (RPL)** @ SMKN 4 Malang (Graduating in 2027)
