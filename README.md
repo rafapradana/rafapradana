@@ -7,7 +7,7 @@
 
 | Year | Achievement |
 |------|-------------|
-| **2026** | 🥈 **2nd Place** — LKS Dikmen Kota Malang Web Technology 2025  |
+| **2026** | 🥈 **2nd Place** — LKS Dikmen Kota Malang Web Technology 2026  |
 | **2025** | 🏆 **Most Progressive Team** — Jagoan Hosting Infra Competition 2025 |
 
 </br>
